@@ -1,0 +1,14 @@
+setup.py
+crawlAutohomeCarpeizhi/__init__.py
+crawlAutohomeCarpeizhi/items.py
+crawlAutohomeCarpeizhi/middlewares.py
+crawlAutohomeCarpeizhi/pipelines.py
+crawlAutohomeCarpeizhi/settings.py
+crawlAutohomeCarpeizhi/spiders/__init__.py
+crawlAutohomeCarpeizhi/spiders/spiderallcar.py
+crawlAutohomeCarpeizhi/spiders/spidercar.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
